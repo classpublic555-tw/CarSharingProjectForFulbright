@@ -1,0 +1,8 @@
+{
+  "name": "TripSplit - Car Share Manager",
+  "description": "A comprehensive car rental sharing and expense splitting application. Manage bookings, track gas expenses with AI receipt scanning, and automatically calculate individual shares based on attendance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
